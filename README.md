@@ -11,7 +11,7 @@
   
 <h3 align="left">About me:</h3>
 <p align="left">Curently passionate with frontend development, also thanks to my studies I got basic knowledge of Java, Python, SQL(wrote android app as my thesis using Firebase, Java, REST API)
-I am open for starting entry level position as web/ frontend developer so I can keep developing my skills in more proffessional enviroment</p>
+I am open for starting entry level position as web/ frontend developer so I can keep developing my skills in more proffessional environment</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
