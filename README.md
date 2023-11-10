@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-- 🌱 I’m currently learning **React, Bootstrap, advanced JS, HTML, CSS**
+- 🌱 I’m currently learning **React, Bootstrap
 
 - 📖 I’m currently doing Meta Frontend Developer Course [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
