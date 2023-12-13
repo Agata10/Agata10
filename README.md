@@ -7,7 +7,6 @@
 
 - 📖 I’m currently doing Meta Frontend Developer Course [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-- 📫 How to reach me **agatamazur84@gmail.com**
   
 <h3 align="left">About me:</h3>
 <p align="left">Curently passionate with frontend development, also thanks to my studies I got basic knowledge of Java, Python, SQL(wrote android app as my thesis using Firebase, Java, REST API)
