@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Bootstrap
 
-- 📖 I’m currently doing Meta Frontend Developer Course [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- 📖 I finished Meta Frontend Developer Course :)) [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
   
 <h3 align="left">About me:</h3>
