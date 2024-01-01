@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">A passionate self-taught frontend developer from Poland</h3>
+<h3 align="center">A graduated Control & Robotics Engineer with passion for frontend development</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
