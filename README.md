@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-- 🌱 I’m currently polishing React
+- 🌱 I’m currently creating figma plugin for map genereation
 
 - 📖 I finished Meta Frontend Developer Course :)) [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
