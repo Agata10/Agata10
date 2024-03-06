@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">A graduated Control & Robotics Engineer with passion for frontend development</h3>
 
-- 🔭 I’m currently enroll in 15-week Software Engineering Bootcamp by Per Scholas
+- 🔭 I’m currently attending 15-week Software Engineering Bootcamp witch AcitvateWork, powered by Per Scholas
 
-- 🌱 I’m currently creating figma plugin for map genereation
+- 🌱 I’m currently working on my figma plugin for map genereation
 
 - 📖 I finished Meta Frontend Developer Course :)) [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
+- By the end of Bootcamp, I will try to get entry-level position as Software Enigneer, let's connect on LinkenIn ! :)
 
   
 <h3 align="left">Connect with me:</h3>
