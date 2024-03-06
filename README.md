@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">A graduated Control & Robotics Engineer with passion for frontend development</h3>
+<h3 align="center">A graduated Control & Robotics Engineer with passion for web development</h3>
 
 - 🔭 I’m currently attending 15-week Software Engineering Bootcamp witch AcitvateWork, powered by Per Scholas
 
