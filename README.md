@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently attending 15-week Software Engineering Bootcamp witch AcitvateWork, powered by Per Scholas
 
-- 🌱 I’m currently working on my figma plugin for map genereation
+- 🌱 I created figma plugin for map genereation
 
 - 📖 I finished Meta Frontend Developer Course :)) [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
