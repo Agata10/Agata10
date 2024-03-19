@@ -7,7 +7,7 @@
 
 - 📖 I finished Meta Frontend Developer Course :)) [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-- By the end of Bootcamp, I will try to get entry-level position as Software Enigneer, let's connect on LinkedIn ! :)
+- By the end of Bootcamp, I will try to get position as Software Enigneer, let's connect on LinkedIn ! :)
 
   
 <h3 align="left">Connect with me:</h3>
