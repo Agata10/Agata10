@@ -2,7 +2,7 @@
 <h3 align="center">A graduated Control & Robotics Engineer with passion for web development</h3>
 
 # 💫 About Me:
-🔭 I’m currently attending 15-week Software Engineering Bootcamp with AcitvateWork, powered by Per Scholas<br><br>🌱 I created Figma plugin for map generation<br><br>📖 I finished Meta Frontend Developer Course [link](https://www.coursera.org/professional-certificates/meta-front-end-developer)<br><br>By the end of Bootcamp, I will try to get position as Software Engineer, let's connect on LinkedIn ! 
+🔭 I’m currently attending 15-week Software Engineering Bootcamp with AcitvateWork, powered by Per Scholas<br><br>🌱 I created Figma plugin for map generation<br><br>📖 I finished Meta Frontend Developer Course [link](https://www.coursera.org/professional-certificates/meta-front-end-developer)<br><br>By the end of Bootcamp, I will be looking for a position as Software Engineer, let's connect on LinkedIn ! 
 
 ## 🌐 Connect with me:
 <p align="left">
