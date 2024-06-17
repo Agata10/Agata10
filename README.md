@@ -2,8 +2,7 @@
 <h3 align="center">A graduated Control & Robotics Engineer with passion for web development</h3>
 
 # 💫 About Me:
-🔭 I’m currently attending 15-week Software Engineering Bootcamp with AcitvateWork, powered by Per Scholas<br><br>🌱 I created Figma plugin for map generation<br><br>📖 I finished Meta Frontend Developer Course [link](https://www.coursera.org/professional-certificates/meta-front-end-developer)<br><br>By the end of Bootcamp(June 2024), I will be looking for a position as Software Engineer, let's connect on LinkedIn ! 
-
+🔭 I’ve graduated 15-week Software Engineering Bootcamp with AcitvateWork, powered by Per Scholas<br><br>🌱 I created Figma plugin for map generation<br><br>📖 I finished Meta Frontend Developer Course [link](https://www.coursera.org/professional-certificates/meta-front-end-developer)<br><br>Check out my lastest project - TravelLog [link](https://github.com/Agata10/travel-log) - capstone project for Software Engineering Bootcamp 
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/agatadeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agatadeter/" height="30" width="40" /></a>
