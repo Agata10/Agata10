@@ -12,6 +12,9 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/agatadeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agatadeter/" height="30" width="40" /></a>
+<a href="" <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="32px" height="32px">
+  <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 2a8 8 0 018 8 8 8 0 01-8 8 8 8 0 01-8-8 8 8 0 018-8zm0 2a6 6 0 00-4.472 10.002A11.941 11.941 0 0112 12c1.657 0 3.231-.328 4.472-.902A6 6 0 0012 4zm0 1c1.308 0 2.554.162 3.719.446C14.908 6.596 14.265 7 12 7c-2.355 0-2.996-.461-3.736-1.2C9.549 5.182 10.726 5 12 5zM6 6.573C7.242 7.636 8.663 8 12 8c1.89 0 3.34-.401 4.575-1.062A8.038 8.038 0 006 6.573zM4.1 12a7.972 7.972 0 013.516-5.722A13.926 13.926 0 005 12c0 1.
+</a>
 </p>
 
 
