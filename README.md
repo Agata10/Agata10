@@ -12,9 +12,19 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/agatadeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agatadeter/" height="30" width="40" /></a>
-<a href="https://yourwebsite.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Globe_icon.svg" alt="yourwebsite.com" height="30" width="40" />
+<a href="https://yourwebsite.com" target="_blank" style="text-decoration: none;">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    fill="currentColor"
+    width="30"
+    height="30"
+    style="vertical-align: middle;"
+  >
+    <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 2a8 8 0 018 8 8 8 0 01-8 8 8 8 0 01-8-8 8 8 0 018-8zm-1 1.5v1c-2.89.35-5 2.37-5.5 5h-1A7.003 7.003 0 0111 3.5zm2 0a7.003 7.003 0 014.5 3.5h-1c-.5-2.63-2.61-4.65-5.5-5v1zm-6.5 5.5h1c.38 1.85 1.55 3.34 3 4.3V16c-2.47-.88-4.3-3.16-4.5-5.5zm10.5 0h1c-.2 2.34-2.03 4.62-4.5 5.5v-1c1.45-.96 2.62-2.45 3-4.3zm-8.5 1.5v1c.38 2.85 1.93 5.17 3.5 6.5-2.02-.38-3.5-2.24-3.5-4.5zm5 0v1c-.38 2.85-1.93 5.17-3.5 6.5 2.02-.38 3.5-2.24 3.5-4.5zm2.5 4.5c-1.57-1.33-3.12-3.65-3.5-6.5v-1c2.02.38 3.5 2.24 3.5 4.5v3zm-5-6.5c-.38-2.85-1.93-5.17-3.5-6.5 2.02.38 3.5 2.24 3.5 4.5v2zm6.5-2.5c-.5-2.63-2.61-4.65-5.5-5v1c1.45.96 2.62 2.45 3 4.3h1.5zm-1.5-1c-.38-1.85-1.55-3.34-3-4.3V3c2.89.35 5 2.37 5.5 5h-1.5z"></path>
+  </svg>
 </a>
+
 
 </p>
 
