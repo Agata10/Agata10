@@ -9,7 +9,7 @@
 🌱 I created Figma plugin for map generation as vectors.<br><br>
 📖 I did Meta Frontend Developer Course [link](https://www.coursera.org/professional-certificates/meta-front-end-developer)<br><br>
 👀 I am actively looking for full stack developers positions.
-##Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/agatadeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agatadeter/" height="30" width="40" /></a>
 </p>
